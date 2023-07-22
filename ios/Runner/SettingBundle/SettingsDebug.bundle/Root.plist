@@ -15,12 +15,12 @@
 		<dict>
 			<key>Type</key>
 			<string>PSTextFieldSpecifier</string>
+			<key>DefaultValue</key>
+			<string>Hello</string>
 			<key>Title</key>
 			<string>Name</string>
 			<key>Key</key>
 			<string>app_username</string>
-			<key>DefaultValue</key>
-			<string></string>
 			<key>IsSecure</key>
 			<true/>
 			<key>KeyboardType</key>
@@ -44,7 +44,7 @@
 			<key>Key</key>
 			<string>app_config</string>
 			<key>DefaultValue</key>
-			<string></string>
+			<string>prod</string>
 			<key>Values</key>
 			<array>
 				<string>prod</string>
